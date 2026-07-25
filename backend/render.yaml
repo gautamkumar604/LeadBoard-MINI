@@ -18,7 +18,7 @@ services:
       - key: JWT_EXPIRATION
         value: 1d
       - key: FRONTEND_URL
-        value: https://leaddesk-frontend.vercel.app
+        value: https://lead-board-mini.vercel.app
       - key: THROTTLE_TTL
         value: 60000
       - key: THROTTLE_LIMIT
